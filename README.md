@@ -43,7 +43,7 @@
   ## Questions?
   
   Github: [csnyder332](https://github.com/csnyder332)
-  email: csnyder332Wgmail.com
+  email: csnyder332gmail.com
 
   ## License
   ![NPM](https://img.shields.io/npm/l/inquirer)
